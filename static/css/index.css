@@ -1,0 +1,17 @@
+footer.main-footer .float-right.d-none.d-sm-inline {
+    display: none !important;
+}
+
+span.brand-text.font-weight-light {
+    font-weight: 800 !important;
+}
+
+.user-panel img {
+    height: 3rem;
+    width: 3.1rem;
+    object-fit: cover;
+}
+.user-panel, .user-panel .info {
+    justify-content: start;
+    align-items: center;
+}

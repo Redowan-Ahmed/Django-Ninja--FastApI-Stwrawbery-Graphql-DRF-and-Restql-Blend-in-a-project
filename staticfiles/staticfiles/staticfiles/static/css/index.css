@@ -1,0 +1,7 @@
+footer.main-footer .float-right.d-none.d-sm-inline {
+    display: none !important;
+}
+
+span.brand-text.font-weight-light {
+    font-weight: 800 !important;
+}
